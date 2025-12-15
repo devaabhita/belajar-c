@@ -1,3 +1,6 @@
+//untuk mencari tanggal dan bulan kelahiran dari seseorang jika diketahui tahun lahir dan wariga (sabda wara, panca wara, wuku)
+//dengan patokan soma paing langkir pada 1 januari 1900
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
