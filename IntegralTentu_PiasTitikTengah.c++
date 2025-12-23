@@ -66,7 +66,7 @@ double hitungIntegralSejati(int pilihan, double a, double b) {
       default: return 0.0;
    }
 }
-
+//fungsi disesuaikan
 void metodeTitikTengah(int pilihanFungsi, double a, double b, double h) {
    string namaFungsi;
    switch (pilihanFungsi) {
