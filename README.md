@@ -1,4 +1,4 @@
-# belajar bahasa pemograman C da C++ dasar
+# belajar bahasa pemograman C dan C++ dasar
 
 1. membuat program untuk mencari integral tak tentu
 2. membuat program kalender perhitungan tanggal lahir berdasarkan wariga kalender bali
